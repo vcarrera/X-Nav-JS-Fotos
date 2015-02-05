@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+    </head>
+    <body onload="javascript:rand();">
+        <p><img id="imag"/><a src="javascript:random()"/>
+        <script src="photos-random.js"></script>
+    </body>
+</html>    
